@@ -10,4 +10,4 @@ Use the example file and the program's -h parameters to figure this out please
 
 Danke have a nice day
 
-![alt text](https://imgur.com/m3dWvnV)
+![alt text](https://imgur.com/a/VEjHTC2)
